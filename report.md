@@ -16,3 +16,12 @@
 | 5                | 10.94                  |28   |
 | 6                | 10.08                  |31   |
 
+
+## Viewership Over Time
+
+![Viewership Graph](graph.jpg)
+
+
+## Analysis of Viewership Changes
+
+The show had a stable viewership from Season 1 to Season 2, followed by a notable increase in Season 3. The average viewership of season three compared to season two increased by 2.34 million. Seasons four, five and six were losing popularity with average viewerships of 13.40, 10.94 and 10.08 respectively.
